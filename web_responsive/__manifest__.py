@@ -12,6 +12,7 @@
               "Odoo Community Association (OCA)",
     "license": "LGPL-3",
     "installable": True,
+    "auto_install": True,
     "depends": [
         'web',
         'mail',
