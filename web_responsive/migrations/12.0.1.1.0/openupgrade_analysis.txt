@@ -1,0 +1,7 @@
+---Fields in module 'web_responsive'---
+---XML records in module 'web_responsive'---
+DEL ir.ui.view: web_responsive.menu
+DEL ir.ui.view: web_responsive.menu_link
+DEL ir.ui.view: web_responsive.menu_secondary
+DEL ir.ui.view: web_responsive.menu_secondary_submenu
+DEL ir.ui.view: web_responsive.qunit_suite
